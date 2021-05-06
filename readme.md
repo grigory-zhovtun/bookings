@@ -1,6 +1,6 @@
 # Bookings and Reservations
 
-This is the repository for my bookings and reservations project.
+This is the repository for my "Bookings and Reservations" project.
 
 - Built in Go version 1.16
 - Uses the [chi router](https://github.com/go-chi/chi/v5)
